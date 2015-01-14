@@ -5,4 +5,5 @@ package a.b.c;
  */
 public class Foo2 {
     //1
+    // trunk ch1
 }
