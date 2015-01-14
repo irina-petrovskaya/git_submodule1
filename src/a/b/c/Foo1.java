@@ -5,4 +5,5 @@ package a.b.c;
  */
 public class Foo1 {
     // 1
+    //2
 }
