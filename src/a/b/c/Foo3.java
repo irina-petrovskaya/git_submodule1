@@ -6,5 +6,5 @@ package a.b.c;
  * Project: git_submodules_test1
  * *******************************
  */
-public class Foo3 {
+public class Foo3 extends Foo1{
 }
