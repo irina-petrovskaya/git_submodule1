@@ -1,7 +1,7 @@
 package a.b.c;
 
 /**
- * Created by user on 13/01/15.
+ * Created by me on 13/01/15.
  */
 public class Foo1 {
     public int m1(){
@@ -10,5 +10,6 @@ public class Foo1 {
     // 1
     //2
     // trunk ch1
+    // 3
     //qqqqqq
 }
