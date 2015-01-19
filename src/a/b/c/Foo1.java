@@ -7,4 +7,5 @@ public class Foo1 {
     // 1
     //2
     // trunk ch1
+    //
 }
