@@ -4,4 +4,5 @@ package a.b.c;
  * Created by user on 02/03/17.
  */
 public class Foo4 {
+    // change0
 }
