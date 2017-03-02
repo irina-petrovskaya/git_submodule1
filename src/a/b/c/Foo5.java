@@ -7,6 +7,11 @@ package a.b.c;
  * *******************************
  */
 public class Foo5 {
+    @Override
+    public String toString() {
+        return "Foo5";
+    }
+
     public Foo5() {
     }
 }
