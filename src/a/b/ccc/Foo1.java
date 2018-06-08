@@ -2,6 +2,7 @@ package a.b.ccc;
 
 /**
  * Created by me on 13/01/15.
+ * submodule1
  */
 public class Foo1 {
     public int m1(){
