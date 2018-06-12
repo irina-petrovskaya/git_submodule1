@@ -11,4 +11,5 @@ public class Foo5 {
 // clone2
 // clone1
 // clone1
+// clone2
 }
