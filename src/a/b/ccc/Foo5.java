@@ -8,5 +8,5 @@ package a.b.ccc;
  * *******************************
  */
 public class Foo5 {
-
+// clone2
 }
